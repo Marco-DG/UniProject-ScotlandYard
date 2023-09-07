@@ -13,4 +13,4 @@ Test that it is installed correctly:
 
 ###### How to run
 
-    java --jar .\ScotlandYard.jar
+    java -jar .\ScotlandYard.jar
