@@ -2,7 +2,7 @@
 
 ###### Preview
 
-![](screenshot.png)
+![](preview.png)
 
 ###### Prerequisites
 Install **JDK 20** and add the *jdk-20/bin* path to the **PATH** environment variable.
